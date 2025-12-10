@@ -1,0 +1,20 @@
+/* Voice Settings */
+"voice_settings.title" = "Voice Settings";
+"voice_settings.select_voice" = "Select Voice";
+
+/* Content */
+"content.title" = "Content";
+"content.placeholder" = "Enter the text you want to convert to speech...";
+"content.instructions.placeholder" = "Optional: Add voice instructions, tone, or style preferences...";
+"content.advanced_instructions" = "Advanced Instructions";
+
+/* Generation Control */
+"generation.button.generate" = "Generate Audio";
+"generation.button.generating" = "Generating...";
+"generation.button.cancel" = "Cancel";
+"generation.success" = "Audio generated successfully!";
+"generation.open_in_finder" = "Open in Finder";
+"generation.progress.generating" = "Generating audio...";
+
+/* Common */
+"common.dismiss" = "Dismiss";
